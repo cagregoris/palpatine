@@ -5,7 +5,7 @@ All data was retrieved from SWAPI
 ## Getting Started:
 - install dependencies
 - run **node index.js** in terminal 
-  - the .txt file will be saved in the main directory
+  - the .txt file will be automatically saved in the main directory when the code is run
 
 ## Node Version:
 v15.14.0
